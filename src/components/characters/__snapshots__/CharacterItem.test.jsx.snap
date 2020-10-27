@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Character component renders Character 1`] = `
+<DocumentFragment>
+  <figure>
+    <figcaption>
+      Name: Adam Pierce
+    </figcaption>
+    <img
+      alt="Adam Pierce"
+      src="https://vignette.wikia.nocookie.net/x-files/images"
+    />
+    <figcaption>
+      Occupation: Cult leader
+    </figcaption>
+    <p>
+      Scientist working at the California Institute of Technology.
+    </p>
+  </figure>
+</DocumentFragment>
+`;
