@@ -3,19 +3,16 @@
 exports[`Character component renders Character 1`] = `
 <DocumentFragment>
   <figure>
+    <h4>
+      Name
+    </h4>
     <figcaption>
-      Name: Adam Pierce
+       Adam Pierce
     </figcaption>
     <img
       alt="Adam Pierce"
       src="https://vignette.wikia.nocookie.net/x-files/images"
     />
-    <figcaption>
-      Occupation: Cult leader
-    </figcaption>
-    <p>
-      Scientist working at the California Institute of Technology.
-    </p>
   </figure>
 </DocumentFragment>
 `;
