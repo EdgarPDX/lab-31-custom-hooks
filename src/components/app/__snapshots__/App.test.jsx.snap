@@ -3,7 +3,25 @@
 exports[`App component renders App 1`] = `
 <DocumentFragment>
   <h1>
-    Hello World
+    HEY ARNOLD
   </h1>
+  <a
+    href="/"
+  >
+    <span>
+      Home
+    </span>
+  </a>
+  <button
+    disabled=""
+  >
+    Previous Page
+  </button>
+  <button>
+    Next Page
+  </button>
+  <ul
+    data-testid="character"
+  />
 </DocumentFragment>
 `;
